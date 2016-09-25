@@ -5,7 +5,7 @@ title: Contact Us
 
 <br/>
 
-## Contact Us
+## {{ page.title }}
 
 ---
 
