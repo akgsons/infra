@@ -4,7 +4,9 @@ title: Blogs
 ---
 
 <br/>
-## {{page.title}}
+
+## {{ page.title }}
+
 ---
 
 {% for post in site.posts %}

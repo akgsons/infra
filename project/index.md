@@ -4,7 +4,9 @@ title: Projects
 ---
 
 <br/>
-## {{page.title}}
+
+## {{ page.title }}
+
 ---
 
 * Project A
