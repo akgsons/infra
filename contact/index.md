@@ -3,9 +3,9 @@ layout: default
 title: Contact Us
 ---
 
-<br/>
 
-## {{page.title}}
+## Contact Us
+
 
 184, K B Chandmari 2nd Bye Lane, Badamtala, Burdwan, PIN 713101
 
