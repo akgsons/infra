@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sample Blog 3"
+title: "Blog C"
 date: 2016-09-01
 ---
 
