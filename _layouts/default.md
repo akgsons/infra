@@ -18,10 +18,13 @@
 				<hr/>											
 				{{ content }}						
 			</div>
+			<br/>
 			<footer>
-	    		<ul>
-	        		<li><a href="https://github.com/akgsons/infra">Github</a></li>
-				</ul>
+				<div>
+					<span style="font-size:20px">
+						<b>akgsons</b>Infra
+					</span>
+				</div>
 			</footer>
 		</body>
 	</html>
