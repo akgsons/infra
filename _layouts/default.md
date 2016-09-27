@@ -6,13 +6,16 @@
 		</head>
 		<body>
 			<nav>
-	    		<ul>
+	    		<ul>					
 	        		<li><a href="/">Home</a></li>
 					<li><a href="/project">Projects</a></li>
 					<li><a href="/blog">Blogs</a></li>
 		        	<li><a href="/contact">Contact Us</a></li>
+					<li><span class="logo">akgsons<span style="font-weight:300;">Infra</span></span>
+					</li>					
 	    		</ul>
 			</nav>
+			<p/>
 			<div class="container">		
 				<h2>{{ page.title }}</h2>	
 				<hr/>											
@@ -20,11 +23,9 @@
 			</div>
 			<br/>
 			<footer>
-				<div>
-					<span style="font-size:20px">
-						<b>akgsons</b>Infra
-					</span>
-				</div>
+				<ul>
+					<li><a href="https://github.com/akgsons/infra">Github</a></li>
+				<ul>
 			</footer>
 		</body>
 	</html>

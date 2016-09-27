@@ -33,15 +33,19 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+	font-size: 1em;
+	text-align: right;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.25em;
 	line-height: 2.0em;
 }
-
 ul.posts li {
     list-style: none;
+}
+.logo {
+    font-weight: 600;
+	font-size: 1.5em;
+	float: right;
 }
