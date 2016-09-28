@@ -13,7 +13,10 @@
 					<li><a href="/blog">Blogs</a></li>
 					-->	
 		        	<li><a href="/contact">Contact Us</a></li>
-					<li><span class="logo">akgsons<span style="font-weight:400;">Infra</span></span>
+					<li>
+						<span class="logo">
+							akgsons<span style="font-weight:400;">Infra</span>
+						</span>
 					</li>					
 	    		</ul>
 			</nav>
