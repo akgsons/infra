@@ -3,7 +3,6 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<meta name="google-site-verification" content="MI4XJE3h-PDU0Qz-JgmU1OG5VWkjYG8-w24l3hlYE6Y" />
 		</head>
 		<body>
 			<nav>
