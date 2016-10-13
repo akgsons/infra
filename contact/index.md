@@ -8,7 +8,7 @@ title: Contact Us
 [ +91 98301 50330 ]( tel:+919830150330 ) \|
 [ infra@akgsons.com ]( mailto:infra@akgsons.com ) \|
 [ @akgsons_infra ]( https://www.twitter.com/akgsons_infra ) \|
-[ fb/akgsons.infra ]( https://www.facebook.com/akgsons.infra )
+[ fb.com/akgsons.infra ]( https://www.facebook.com/akgsons.infra )
 
 
 
