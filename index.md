@@ -3,7 +3,7 @@ layout: default
 title: AK Ghosh & Sons Infrastructure Pvt. Ltd.
 ---
 
-Our Journey So Far
+Our journey so far.
 
 1974 - M/s. A. K. Ghosh & Sons, a partnership firm, was founded by Mr. Ajit Kumar Ghosh & others. 
 
