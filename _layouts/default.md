@@ -9,7 +9,7 @@
 			<nav>
 	    		<ul>					
 	        		<li><a href="/">Home</a></li>
-					<li><a href="/company">Company</a></li>
+					<li><a href="/info">Info</a></li>
 					<!--
 					<li><a href="/project">Projects</a></li>
 					<li><a href="/blog">Blogs</a></li>
