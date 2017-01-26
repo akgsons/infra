@@ -9,4 +9,4 @@ Our journey so far.
 
 The firm started its journey as a contracting firm, which executed building and road contracts from several government bodies. In course of time, the firm became a first class government contractor.
 
-2017 - M/s. A. K. Ghosh & Sons was converted to AK Ghosh & Sons Infrastructure Pvt. Ltd.
+2017 - M/s. A. K. Ghosh & Sons was taken over by AK Ghosh & Sons Infrastructure Pvt. Ltd.
