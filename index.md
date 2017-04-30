@@ -7,7 +7,7 @@ The company executes civil engineering work contracts from various government de
 
 The company started its journey by taking over M/s. A. K. Ghosh & Sons, which was founded in 1973.
 
-***Current Projects:***
+**Current Projects:**
 
 1. Construction of Road from Gantimore to Gandharbapur (4.150 km) under Burdwan Highway Division No.-I. Tendered amount: Rs. 3.06 cr.
 
