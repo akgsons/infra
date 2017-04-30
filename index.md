@@ -1,12 +1,9 @@
 ---
 layout: default
-title: AK Ghosh & Sons Infrastructure Pvt. Ltd.
+title: AK Ghosh and Sons Infrastructure Pvt. Ltd.
 ---
 
-Our journey so far.
+AK Ghosh and Sons Infrastructure Pvt. Ltd. executes civil engineering work contracts from various government departments such as PWD, PW(Roads)D, Railways, PMGSY, Zilla Parishad, etc.  
 
-1973 - M/s. A. K. Ghosh & Sons, a partnership firm, was founded by Mr. Ajit Kumar Ghosh & others. 
+The company started its journey by taking over M/s. A. K. Ghosh & Sons, which was founded by Mr. Ajit Kumar Ghosh & others in 1973. 
 
-The firm started its journey by executing civil engineering work contracts from various government bodies. In course of time, the firm became a first class government contractor.
-
-2017 - M/s. A. K. Ghosh & Sons was converted to AK Ghosh & Sons Infrastructure Pvt. Ltd.
