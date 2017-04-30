@@ -6,3 +6,9 @@ title: AK Ghosh and Sons Infrastructure Pvt. Ltd.
 The company executes civil engineering work contracts from various government departments such as PWD, PW(Roads)D, Railways, PMGSY, Zilla Parishad, etc.  
 
 The company started its journey by taking over M/s. A. K. Ghosh & Sons, which was founded in 1973.
+
+***Current Projects:***
+
+1. Construction of Road from Gantimore to Gandharbapur (4.150 km) under Burdwan Highway Division No.-I. Tendered amount: Rs. 3.06 cr.
+
+2. Jamar Health Centre Road & Link Road (5.515 km) under Burdwan South Highway Division. Tendered amount: Rs. 3.39 cr.
