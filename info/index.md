@@ -9,7 +9,7 @@ VAT: 19794128073
 
 CIN: U45309WB2016PTC218246
 
-Chairman & MD: Soham Sundar Ghosh
+Chairman & MD: Soham Sundar Ghosh (B. Tech)
 
 
 
