@@ -31,6 +31,7 @@
 			</div>
 			<br/>
 			<footer>
+				{% include ad.html  %}
 				<ul>
 					<li><a href="https://github.com/akgsons/infra">Github</a></li>
 				<ul>
