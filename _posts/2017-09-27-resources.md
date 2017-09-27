@@ -9,4 +9,4 @@ title: Resources
 
 [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/Everything-Store-Jeff-Bezos-Amazon-ebook/dp/B00BWQW73E)
 
-[Rich Dad Poor Dad: What The Rich Teach Their Kids About Money - That The Poor And Middle Class Do Not!](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle-ebook/dp/B0175P82RA)
+[Rich Dad Poor Dad: What The Rich Teach Their Kids About Money](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle-ebook/dp/B0175P82RA)
