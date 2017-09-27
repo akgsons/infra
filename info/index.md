@@ -9,7 +9,7 @@ GSTIN: 19AAOCA9289Q1ZB
 
 CIN: U45309WB2016PTC218246
 
-Chairman & MD: Soham Sundar Ghosh (B. Tech)
+Chairman & MD: Soham Sundar Ghosh
 
 
 
