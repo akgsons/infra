@@ -3,8 +3,6 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<meta name="google-site-verification" content="t6InupgXK_QED1JFtJ_Zfo5vSybqn3sEeVnNXkZiNEU" />
-		{% include ad.html  %}
 		</head>
 		<body>
 			<nav>
@@ -34,4 +32,5 @@
 				<ul>
 			</footer>
 		</body>
+		{% include ad.html  %}
 	</html>
