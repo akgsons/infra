@@ -11,12 +11,9 @@
 	    		<ul>					
 	        		<li><a href="/">Home</a></li>
 					<li><a href="/info">Info</a></li>
-					<!--
-					<li><a href="/project">Projects</a></li>
-					<li><a href="/blog">Blogs</a></li>
-					-->	
 		        	        <li><a href="/contact">Contact Us</a></li>
                                         <li><a href="/careers">Careers</a></li>
+					<li><a href="/e14p">Careers</a></li>
 					<li>
 						<span class="logo">
 							akgsons<span style="font-weight:400;">Infra</span>
