@@ -3,9 +3,11 @@ layout: default
 title: AK Ghosh and Sons Infrastructure Pvt. Ltd.
 ---
 
-The company executes civil work contracts from various govt. departments such as PWD, PW(R)D, Railways, PMGSY, Zilla Parishad, etc.  
+The company executes civil-works contracts for various govt. departments such as PWD, PW(R)D, Railways, PMGSY, Zilla Parishad, etc.  
 
-The company is the continuation of the partnership firm, M/s. A. K. Ghosh & Sons, a 1st class govt. contractor (civil) firm, which was established in 1973.
+It all began in 1973 as a partnership firm, M/s. A. K. Ghosh & Sons, which was a 1st class govt. contractor.
+
+In 2017, the firm was converted to this pvt. ltd. company in order to run it in a more transperent and professional manner.
 
 **Current Projects:**
 
