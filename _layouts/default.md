@@ -13,7 +13,7 @@
 					<li><a href="/info">Info</a></li>
 		        	        <li><a href="/contact">Contact Us</a></li>
                                         <li><a href="/careers">Careers</a></li>
-					<li><a href="/e14p">Careers</a></li>
+					<li><a href="/e14p">E14P</a></li>
 					<li>
 						<span class="logo">
 							akgsons<span style="font-weight:400;">Infra</span>
