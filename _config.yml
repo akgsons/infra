@@ -30,4 +30,4 @@ name: AK Ghosh & Sons Infrastructure Pvt Ltd
 markdown: kramdown
 # theme: minima
 
-permalink: /blog/:categories/:title
+permalink: /e14p/:categories/:title
