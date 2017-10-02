@@ -29,5 +29,5 @@ name: AK Ghosh & Sons Infrastructure Pvt Ltd
 # Build settings
 markdown: kramdown
 # theme: minima
+include: "[_pages]"
 
-permalink: /e14p/:categories/:title
