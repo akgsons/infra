@@ -31,5 +31,4 @@
 				<ul>
 			</footer>
 		</body>
-		{% include ad.html  %}
 	</html>
