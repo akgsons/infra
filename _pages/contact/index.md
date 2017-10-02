@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+permalink: /contact
 ---
 
 Regd. Office: 11, Old Post Office Street, 1st Floor (Left Side), Kolkata 700001. 

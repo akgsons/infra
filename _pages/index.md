@@ -1,6 +1,7 @@
 ---
 layout: default
 title: AK Ghosh and Sons Infrastructure Pvt. Ltd.
+permalink: /
 ---
 
 The company executes civil-works contracts for various govt. departments such as PWD, PW(R)D, Railways, PMGSY, Zilla Parishad, etc.  
