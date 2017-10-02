@@ -3,7 +3,6 @@
 		<head>
 			<title>{{ page.title }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		<base target="_blank">
 		</head>
 		<body>
 			<nav>
