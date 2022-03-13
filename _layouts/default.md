@@ -9,7 +9,6 @@
 	    		<ul>					
 	        		<li><a href="/">Home</a></li>
 		        	        <li><a href="/contact">Contact Us</a></li>
-                                        <li><a href="/careers">Careers</a></li>
 					<li>
 						<span class="logo">
 							akgsons<span style="font-weight:400;">Infra</span>
