@@ -4,14 +4,13 @@ title: AK Ghosh and Sons Infrastructure Pvt. Ltd.
 permalink: /
 ---
 
-The company executes civil-works contracts for various govt. departments such as PWD, PW(R)D, Railways, PMGSY, Zilla Parishad, etc.  
+The Company executes various infrastructure projects, primarily in the highway construction domain, in India. In the last couple of years, the Company has executed highway construction projects of over INR 220 million under Public Works (Road) Directorate, Government of West Bengal, India.
 
-It all began in 1973 as a partnership firm, M/s. A. K. Ghosh & Sons, which was a 1st class govt. contractor. In 2017, the firm was converted to this private limited company in order to run the business in a more transparent and professional manner.
+Currently, the Company is executing highway construction projects of over INR 120 million in the district of Hooghly, West Bengal, India.
 
-{% comment %}
-**Current Projects:**
+The Company started its journey in 1973 as a partnership firm, which later enlisted itself as a first-class government (civil) contractor in West Bengal, India. In 2017, the partnership firm was converted to this Company in order to run its business more efficiently & professionally.
 
-Construction of Road from Gantimore to Gandharbapur (4.150 km) under Burdwan Highway Division No.-I. Tendered amount: Rs. 3.06 cr.
- 
-Jamar Health Centre Road & Link Road (5.515 km) under Burdwan South Highway Division. Tendered amount: Rs. 3.39 cr.
-{% endcomment %} 
+Mr. Soham Sundar Ghosh is the managing director of the Company. He joined the business in 2014. Before joining, he had worked in the IT (Information Technology) industry for 10 years. He holds a Bachelor’s degree in Electronics & Communication Engineering from National Institute of Technology, Calicut, Kerala, India.
+
+
+Date: 13th March, 2022
