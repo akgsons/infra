@@ -8,7 +8,6 @@
 			<nav>
 	    		<ul>					
 	        		<li><a href="/">Home</a></li>
-					<li><a href="/info">Info</a></li>
 		        	        <li><a href="/contact">Contact Us</a></li>
                                         <li><a href="/careers">Careers</a></li>
 					<li>
