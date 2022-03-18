@@ -12,6 +12,8 @@ The Company started its journey in 1973 as a partnership firm, which later enlis
 
 Mr. Soham Sundar Ghosh is the managing director of the Company. He joined the business in 2014. Before joining, he had worked in the IT (Information Technology) industry for 10 years. He holds a Bachelor’s degree in Electronics & Communication Engineering from National Institute of Technology, Calicut, Kerala, India.
 
-The Company aims to grow its highway construction business and also to diversify into other infrastructure domains in India.
+The Company aims to become one of the leading infrastructure companies in India.
 
-Date: 13th March, 2022
+
+
+Date: 19th March, 2022
