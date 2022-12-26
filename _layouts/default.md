@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 	<html>
 		<head>
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8171290813607543" crossorigin="anonymous">
+			</script>
 			<title>{{ page.title }}</title>
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
